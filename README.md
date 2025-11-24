@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gabriel Silva
 
-<!--
-**GabrielSilva-A/GabrielSilva-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Full Stack Junior**  
+Apasionado por la tecnología, el aprendizaje constante y la creación de soluciones que generen un impacto real.  
+Con más de tres años de formación en desarrollo —tanto autodidacta como académica—, me estoy especializando en el ciclo completo del desarrollo web: **frontend, backend, bases de datos y despliegue en la nube**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y herramientas que manejo
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Flask, PHP  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS, configuración de servidores, despliegue de aplicaciones  
+- **Control de versiones:** Git / GitHub  
+- **Otros:** POO, REST APIs, entornos virtuales
+
+---
+
+### 🎯 En este momento
+- 📘 Estudiando la **Tecnicatura en Programación** en *Teclab Instituto Técnico Superior*.  
+- 🤖 Formándome en **Inteligencia Artificial aplicada a la educación y las empresas**.  
+- 🧩 Buscando mi primera experiencia profesional en una empresa IT que forme y potencie nuevos talentos.
+
+---
+
+### 💡 Sobre mí
+Creo que el conocimiento solo cobra sentido cuando se comparte y se transforma en algo útil.  
+Mi objetivo es seguir creciendo como desarrollador, aprendiendo de otros profesionales y aportando mi curiosidad, compromiso y entusiasmo a cada proyecto.
+
+---
+
+📫 **Podés contactarme en:**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-silva-75341a219)  
+- ✉️ ags0014@gmail.com  
